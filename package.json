@@ -1,0 +1,19 @@
+{
+  "name": "document-wrapper",
+  "version": "1.0.0",
+  "description": "npmのライブラリの最小構成を検証するためのサンプルライブラリです。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naosim/document-wrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naosim/document-wrapper/issues"
+  },
+  "homepage": "https://github.com/naosim/document-wrapper#readme"
+}
